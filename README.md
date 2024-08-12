@@ -1,6 +1,6 @@
 * Trabalho-de-OO
-UnB - Universidade de Brasilia
-FGA - Faculdade do Gama
+    UnB - Universidade de Brasilia
+    FGA - Faculdade do Gama
 
 * Prof. André Luiz Peron Martins Lanna
 
