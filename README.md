@@ -18,7 +18,7 @@ O programa em si é dividio em 4 partes:
 * view: Responsável principalmente pela criação de menus visuais que ajudam o usuário a navegar pelo programa e pela realização de algumas verificações.
 
 * cadastros: Responsável pelo armazenamento de dados por meio de métodos mais complexos.
-    - Todos com operações de:  
+   Todos com operações de:  
      - Cadastrar
      - Pesquisar
      - Alterar
